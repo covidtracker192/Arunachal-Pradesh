@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "11693842007-li0askednap1o5u7cvrqagahf9j4tldv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.covid19.arunachalpradesh",
+            "certificate_hash": "53a09f196c1362d3ec1f3c800f28195d8d0e086c"
+          }
+        },
+        {
           "client_id": "11693842007-02vbi0ds7lvj4e3l8qab500c0ipbnph6.apps.googleusercontent.com",
           "client_type": 3
         }
